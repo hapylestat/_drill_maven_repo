@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.drill.memory</groupId>
+  <artifactId>memory-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>1.16.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190313110910</lastUpdated>
+  </versioning>
+</metadata>
