@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.drill</groupId>
+  <artifactId>drill-root</artifactId>
+  <version>1.16.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190314.053747</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190314053747</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.16.0-20190314.053747-1</value>
+        <updated>20190314053747</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
