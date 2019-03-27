@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.drill.contrib</groupId>
+  <artifactId>drill-opentsdb-storage</artifactId>
+  <version>1.16.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190327.131933</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190327131933</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.16.0-20190327.131933-1</value>
+        <updated>20190327131933</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.16.0-20190327.131933-1</value>
+        <updated>20190327131933</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>1.16.0-20190327.131933-1</value>
+        <updated>20190327131933</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

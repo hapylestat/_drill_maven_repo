@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.drill.contrib.storage-hive</groupId>
+  <artifactId>drill-contrib-storage-hive-parent</artifactId>
+  <version>1.16.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190327.131941</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190327131941</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.16.0-20190327.131941-1</value>
+        <updated>20190327131941</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
